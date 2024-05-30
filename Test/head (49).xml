@@ -1,0 +1,26 @@
+<annotation>
+	<folder>head</folder>
+	<filename>head (49).jpg</filename>
+	<path>G:\Augmented Final pics\head\head (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>291</ymin>
+			<xmax>641</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

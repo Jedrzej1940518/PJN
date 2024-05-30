@@ -1,0 +1,26 @@
+<annotation>
+	<folder>foot</folder>
+	<filename>foot (30).jpg</filename>
+	<path>G:\Augmented Final pics\foot\foot (30).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Foot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>90</ymin>
+			<xmax>445</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

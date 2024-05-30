@@ -1,0 +1,26 @@
+<annotation>
+	<folder>one</folder>
+	<filename>one (41).jpg</filename>
+	<path>G:\Augmented Final pics\one\one (41).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>296</ymin>
+			<xmax>427</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

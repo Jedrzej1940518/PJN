@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sandal</folder>
+	<filename>sandal(39).jpg</filename>
+	<path>G:\Augmented Final pics\Sandal\sandal(39).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sandal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>262</ymin>
+			<xmax>529</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

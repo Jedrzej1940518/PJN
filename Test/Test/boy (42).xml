@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boy</folder>
+	<filename>boy (42).jpg</filename>
+	<path>G:\Augmented Final pics\boy\child (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>150</ymin>
+			<xmax>663</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>board game</folder>
+	<filename>board game (33).jpg</filename>
+	<path>G:\Augmented Final pics\board game\board game (33).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Board_Game</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>388</ymin>
+			<xmax>338</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

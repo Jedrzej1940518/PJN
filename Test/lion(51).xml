@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lion</folder>
+	<filename>lion(51).jpg</filename>
+	<path>G:\Augmented Final pics\Lion\lion(51).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>181</ymin>
+			<xmax>474</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

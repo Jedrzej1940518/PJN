@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Musical instrument</folder>
+	<filename>musical instrument (27).jpg</filename>
+	<path>G:\Augmented Final pics\Musical instrument\musical instrument (27).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Musical_Instrument</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>365</ymin>
+			<xmax>447</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

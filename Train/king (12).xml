@@ -1,0 +1,26 @@
+<annotation>
+	<folder>king</folder>
+	<filename>king (12).jpg</filename>
+	<path>G:\Augmented Final pics\king\king (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>King</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>107</ymin>
+			<xmax>523</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

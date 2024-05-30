@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fabric</folder>
+	<filename>fabric(32).jpg</filename>
+	<path>G:\Augmented Final pics\Fabric\fabric(32).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fabric</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>312</ymin>
+			<xmax>267</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

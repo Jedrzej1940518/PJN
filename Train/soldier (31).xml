@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soldier</folder>
+	<filename>soldier (31).jpg</filename>
+	<path>G:\Augmented Final pics\soldier\soldier (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soldier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>351</ymin>
+			<xmax>320</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

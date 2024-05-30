@@ -1,0 +1,26 @@
+<annotation>
+	<folder>builder</folder>
+	<filename>builder (48).jpg</filename>
+	<path>G:\Augmented Final pics\builder\builder (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Builder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>300</ymin>
+			<xmax>451</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

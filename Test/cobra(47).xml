@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cobra</folder>
+	<filename>cobra(47).jpg</filename>
+	<path>G:\Augmented Final pics\Cobra\cobra(47).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cobra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>298</ymin>
+			<xmax>623</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Galena</folder>
+	<filename>galena(2).jpg</filename>
+	<path>G:\Augmented Final pics\Galena\galena(2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Galena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>318</ymin>
+			<xmax>294</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bandage</folder>
+	<filename>bandage(34).jpg</filename>
+	<path>G:\Augmented Final pics\Bandage\bandage(34).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bandage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>135</ymin>
+			<xmax>565</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

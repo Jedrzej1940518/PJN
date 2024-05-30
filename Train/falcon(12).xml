@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Falcon</folder>
+	<filename>falcon(12).jpg</filename>
+	<path>G:\Augmented Final pics\Falcon\falcon(12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Falcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>163</ymin>
+			<xmax>525</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

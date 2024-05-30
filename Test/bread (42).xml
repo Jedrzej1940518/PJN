@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bread</folder>
+	<filename>bread (42).jpg</filename>
+	<path>G:\Augmented Final pics\bread\bread (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>191</ymin>
+			<xmax>426</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

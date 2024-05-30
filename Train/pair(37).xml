@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pair</folder>
+	<filename>pair(37).jpg</filename>
+	<path>G:\Augmented Final pics\Pair\pair(37).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>146</ymin>
+			<xmax>438</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

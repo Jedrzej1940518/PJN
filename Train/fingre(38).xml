@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fingre</folder>
+	<filename>fingre(38).jpg</filename>
+	<path>G:\Augmented Final pics\Fingre\fingre(38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fingre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>75</ymin>
+			<xmax>490</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

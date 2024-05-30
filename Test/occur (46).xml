@@ -1,0 +1,26 @@
+<annotation>
+	<folder>occur</folder>
+	<filename>occur (46).jpg</filename>
+	<path>G:\Augmented Final pics\occur\occur (46).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Occur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>84</ymin>
+			<xmax>413</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

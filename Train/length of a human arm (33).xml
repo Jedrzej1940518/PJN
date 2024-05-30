@@ -1,0 +1,26 @@
+<annotation>
+	<folder>length of a human arm</folder>
+	<filename>length of a human arm (33).jpg</filename>
+	<path>G:\Augmented Final pics\length of a human arm\length of a human arm (33).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Length_Of_a_Human_Arm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>371</ymin>
+			<xmax>308</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

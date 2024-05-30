@@ -1,0 +1,26 @@
+<annotation>
+	<folder>swallow</folder>
+	<filename>swallow (51).jpg</filename>
+	<path>G:\Augmented Final pics\swallow\swallow (51).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Swallow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>381</ymin>
+			<xmax>659</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

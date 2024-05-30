@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Now</folder>
+	<filename>now(12).jpg</filename>
+	<path>G:\Augmented Final pics\Now\now(12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>89</ymin>
+			<xmax>657</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

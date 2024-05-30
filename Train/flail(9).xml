@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flail</folder>
+	<filename>flail(9).jpg</filename>
+	<path>G:\Augmented Final pics\Flail\flail(9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>38</ymin>
+			<xmax>474</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pool</folder>
+	<filename>pool(14).jpg</filename>
+	<path>G:\Augmented Final pics\Pool\pool(14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>205</ymin>
+			<xmax>594</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Among</folder>
+	<filename>among(1).jpg</filename>
+	<path>G:\Augmented Final pics\Among\amongmod_0_196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Among</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>138</ymin>
+			<xmax>458</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

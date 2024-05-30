@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sail</folder>
+	<filename>sail(48).jpg</filename>
+	<path>G:\Augmented Final pics\Sail\sail(48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>291</ymin>
+			<xmax>518</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

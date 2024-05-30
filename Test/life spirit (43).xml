@@ -1,0 +1,26 @@
+<annotation>
+	<folder>life spirit</folder>
+	<filename>life spirit (43).jpg</filename>
+	<path>G:\Augmented Final pics\life spirit\life spirit (43).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Life_Spirit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>362</ymin>
+			<xmax>573</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>book</folder>
+	<filename>book (5).jpg</filename>
+	<path>G:\Augmented Final pics\book\book (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>271</ymin>
+			<xmax>320</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>face (39).jpg</filename>
+	<path>G:\Augmented Final pics\face\face (39).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>312</ymin>
+			<xmax>385</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

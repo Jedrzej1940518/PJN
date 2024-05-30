@@ -1,0 +1,26 @@
+<annotation>
+	<folder>limits</folder>
+	<filename>limits (13).jpg</filename>
+	<path>G:\Augmented Final pics\limits\limits (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>106</ymin>
+			<xmax>322</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

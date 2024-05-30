@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Man</folder>
+	<filename>man(31).jpg</filename>
+	<path>G:\Augmented Final pics\Man\man(31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>302</ymin>
+			<xmax>457</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

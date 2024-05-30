@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Woman</folder>
+	<filename>Woman(40).jpg</filename>
+	<path>G:\Augmented Final pics\Woman\Woman(40).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>247</ymin>
+			<xmax>504</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Reed</folder>
+	<filename>reed(4).jpg</filename>
+	<path>G:\Augmented Final pics\Reed\reed(4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Reed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>301</ymin>
+			<xmax>543</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

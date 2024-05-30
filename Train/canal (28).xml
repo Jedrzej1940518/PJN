@@ -1,0 +1,26 @@
+<annotation>
+	<folder>canal</folder>
+	<filename>canal (28).jpg</filename>
+	<path>G:\Augmented Final pics\canal\canal (28).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>167</ymin>
+			<xmax>546</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

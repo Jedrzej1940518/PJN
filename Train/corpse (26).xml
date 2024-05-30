@@ -1,0 +1,26 @@
+<annotation>
+	<folder>corpse</folder>
+	<filename>corpse (26).jpg</filename>
+	<path>G:\Augmented Final pics\corpse\corpse (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corpse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>339</ymin>
+			<xmax>371</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

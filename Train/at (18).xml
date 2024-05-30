@@ -1,0 +1,26 @@
+<annotation>
+	<folder>at</folder>
+	<filename>at (18).jpg</filename>
+	<path>G:\Augmented Final pics\at\at (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>At</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>196</ymin>
+			<xmax>589</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

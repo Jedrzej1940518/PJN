@@ -1,0 +1,26 @@
+<annotation>
+	<folder>This</folder>
+	<filename>this(23).jpg</filename>
+	<path>G:\Augmented Final pics\This\this(23).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>This</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>130</ymin>
+			<xmax>314</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Water</folder>
+	<filename>water(34).jpg</filename>
+	<path>G:\Augmented Final pics\Water\water(34).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>208</ymin>
+			<xmax>452</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

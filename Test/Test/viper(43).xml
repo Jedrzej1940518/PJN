@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Viper</folder>
+	<filename>viper(43).jpg</filename>
+	<path>G:\Augmented Final pics\Viper\viper(43).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Viper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>190</ymin>
+			<xmax>364</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leg</folder>
+	<filename>leg(43).jpg</filename>
+	<path>G:\Augmented Final pics\Leg\leg(43).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>322</ymin>
+			<xmax>360</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

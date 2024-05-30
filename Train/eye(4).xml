@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eye</folder>
+	<filename>eye(4).jpg</filename>
+	<path>G:\Augmented Final pics\Eye\eye(4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>263</ymin>
+			<xmax>599</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

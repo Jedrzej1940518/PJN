@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cloth on pole</folder>
+	<filename>cloth on pole (6).jpg</filename>
+	<path>G:\Augmented Final pics\cloth on pole\cloth on pole (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cloth_on_Pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>236</ymin>
+			<xmax>451</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

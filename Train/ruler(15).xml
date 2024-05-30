@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ruler</folder>
+	<filename>ruler(15).jpg</filename>
+	<path>G:\Augmented Final pics\Ruler\ruler(15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ruler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>166</ymin>
+			<xmax>370</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

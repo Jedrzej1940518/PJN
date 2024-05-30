@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Meet</folder>
+	<filename>meet(22).jpg</filename>
+	<path>G:\Augmented Final pics\Meet\meetmod_0_4453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Meet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>237</ymin>
+			<xmax>388</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

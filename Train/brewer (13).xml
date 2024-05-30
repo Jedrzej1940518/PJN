@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brewer</folder>
+	<filename>brewer (13).jpg</filename>
+	<path>G:\Augmented Final pics\brewer\brewer (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brewer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>139</ymin>
+			<xmax>474</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

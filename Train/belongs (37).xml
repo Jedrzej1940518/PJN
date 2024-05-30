@@ -1,0 +1,26 @@
+<annotation>
+	<folder>belongs</folder>
+	<filename>belongs (37).jpg</filename>
+	<path>G:\Augmented Final pics\belongs\belongs (37).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Belongs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>277</ymin>
+			<xmax>632</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

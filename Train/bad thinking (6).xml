@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad thinking</folder>
+	<filename>bad thinking (6).jpg</filename>
+	<path>G:\Augmented Final pics\bad thinking\bad thinking (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bad_Thinking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>292</ymin>
+			<xmax>547</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100</folder>
+	<filename>100 (48).jpg</filename>
+	<path>G:\Augmented Final pics\100\100 (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>227</ymin>
+			<xmax>395</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

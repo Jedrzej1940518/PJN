@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mascot</folder>
+	<filename>mascot (15).jpg</filename>
+	<path>G:\Augmented Final pics\mascot\mascot (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mascot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>385</ymin>
+			<xmax>554</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

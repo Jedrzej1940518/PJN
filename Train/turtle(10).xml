@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Turtle</folder>
+	<filename>turtle(10).jpg</filename>
+	<path>G:\Augmented Final pics\Turtle\turtle(10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turtle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>126</ymin>
+			<xmax>603</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

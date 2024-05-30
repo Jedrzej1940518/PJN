@@ -1,0 +1,26 @@
+<annotation>
+	<folder>To_say</folder>
+	<filename>to say(33).jpg</filename>
+	<path>G:\Augmented Final pics\To_say\to say(33).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>To_Say</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>240</ymin>
+			<xmax>290</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

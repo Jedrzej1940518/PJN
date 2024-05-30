@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bury</folder>
+	<filename>bury (49).jpg</filename>
+	<path>G:\Augmented Final pics\bury\bury (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bury</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>272</ymin>
+			<xmax>640</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

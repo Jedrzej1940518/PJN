@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wall</folder>
+	<filename>wall (5).jpg</filename>
+	<path>G:\Augmented Final pics\wall\wall (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>284</ymin>
+			<xmax>450</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

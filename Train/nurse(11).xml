@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nurse</folder>
+	<filename>nurse(11).jpg</filename>
+	<path>G:\Augmented Final pics\Nurse\nurse(11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nurse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>266</ymin>
+			<xmax>313</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

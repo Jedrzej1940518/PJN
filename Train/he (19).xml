@@ -1,0 +1,26 @@
+<annotation>
+	<folder>he</folder>
+	<filename>he (19).jpg</filename>
+	<path>G:\Augmented Final pics\he\he (19).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>He</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>202</ymin>
+			<xmax>371</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>papyrus scroll</folder>
+	<filename>papyrus scroll (50).jpg</filename>
+	<path>G:\Augmented Final pics\papyrus scroll\papyrus scroll (50).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Papyrus_Scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>409</ymin>
+			<xmax>439</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

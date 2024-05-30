@@ -1,0 +1,26 @@
+<annotation>
+	<folder>you</folder>
+	<filename>you (18).jpg</filename>
+	<path>G:\Augmented Final pics\you\you (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>192</ymin>
+			<xmax>606</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

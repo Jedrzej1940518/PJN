@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cooked</folder>
+	<filename>cooked(11).jpg</filename>
+	<path>G:\Augmented Final pics\Cooked\cooked(11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cooked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>167</ymin>
+			<xmax>625</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
